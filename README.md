@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**m1nixx/m1nixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" > 
+<br><br><br>
 
-Here are some ideas to get you started:
+<p>
+Hello!🤲 I'm SeongMin Kang, a developer.💻 <br>
+I want to be a person who continues to grow.🌱 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>  Technology Stack 🔍 </h3>
+<img src="https://img.shields.io/badge/Java-brightgreen"/> <img src="https://img.shields.io/badge/JavaScript-yellow"/>
+<img src="https://img.shields.io/badge/Spring-green"/>
+<img src="https://img.shields.io/badge/HTML5-orange"/>
+<img src="https://img.shields.io/badge/CSS3-ff69b4"/>
+<img src="https://img.shields.io/badge/MySQL-blue"/>
+
+<br><br>
+</div>
